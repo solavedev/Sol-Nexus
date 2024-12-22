@@ -1,5 +1,5 @@
 # Sol's Terms of Service
-<sub>*Effective: November 29, 2024*</sub>
+Effective: November 29, 2024
 
 Thank you for choosing Sol, a Discord bot developed by the **Luminova Team**. 
 Sol is designed to inspire creativity, facilitate meaningful connections, and provide engaging functionality for Discord users. By using Sol, you agree to the following terms, crafted to ensure a safe and respectful environment for all.
