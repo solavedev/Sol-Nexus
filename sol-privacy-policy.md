@@ -30,7 +30,7 @@ Thank you for using Sol, a Discord bot developed by the **Luminova Team**. Your 
 
 ## 4. Questions or Concerns
 
-If you have any questions or concerns about this Privacy Policy, please contact the Luminova Team via our [GitHub](https://github.com/solmaia).
+If you have any questions or concerns about this Privacy Policy, please contact the Luminova Team via our [GitHub](https://github.com/solavedev).
 
 ## Closing Statement
 
