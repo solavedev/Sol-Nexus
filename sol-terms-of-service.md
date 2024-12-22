@@ -11,8 +11,8 @@ By interacting with or using Sol, a Discord-based AI-powered application develop
 This agreement incorporates, by reference, the following terms and policies that apply based on the services and tools Sol interacts with:
 - [Discord Terms of Service](https://discord.com/terms)
 - [Discord Community Guidelines](https://discord.com/guidelines)
-- [Meta's LLaMA Community License Agreement](https://ai.meta.com/static-resource/responsible-use-guide/)
-- [Ollama Terms of Use or License](https://ollama.com)
+- [Meta's LLaMA License](https://ollama.com/library/llama2/blobs/7c23fb36d801)
+- [Ollama License](https://github.com/ollama/ollama/blob/main/LICENSE)
 
 Your use of Sol also affirms that you comply with all applicable laws and regulations in your jurisdiction and that you will use the application responsibly, ethically, and with respect for others.
 
@@ -36,8 +36,8 @@ Sol is hosted locally by the Luminova Team. While inputs are temporarily process
 **Comply with Relevant Policies**  
 By using Sol, users agree to the terms and guidelines of all services involved, including:
 - [Discord Terms of Service](https://discord.com/terms)
-- [Meta's LLaMA Community License Agreement](https://ai.meta.com/static-resource/responsible-use-guide/)
-- [Ollama Terms of Use or License](https://ollama.com)
+- [Meta's LLaMA License](https://ollama.com/library/llama2/blobs/7c23fb36d801)
+- [Ollama License](https://github.com/ollama/ollama/blob/main/LICENSE)
 
 Failure to adhere to these responsibilities may result in the restriction or removal of access to Sol.
 
@@ -60,7 +60,7 @@ Sol does not save or log user inputs after they are processed. All interactions 
 **Security**  
 While Sol relies on secure systems like Discord's API and Ollama's infrastructure, users should avoid sharing sensitive or private information through the bot. Local hosting adds an additional layer of privacy by limiting exposure to external servers.
 
-For more details or concerns about data handling, contact the Luminova Team via our [GitHub](https://github.com/solmaia).
+For more details or concerns about data handling, contact the Luminova Team via our [GitHub](https://github.com/solavedev).
 
 ## 4. Prohibited Uses
 
@@ -91,7 +91,7 @@ To maintain a safe, respectful, and creative environment, the following actions 
 - Reporting violations to Discord or relevant authorities, as required.
 
 
-If you have questions about appropriate use, contact the Luminova Team via our [GitHub](https://github.com/solmaia).
+If you have questions about appropriate use, contact the Luminova Team via our [GitHub](https://github.com/solavedev).
 
 ## 5. Limitation of Liability
 
@@ -143,5 +143,5 @@ The name **Luminova**, the Sol application logo, and any related branding are no
 
 ## Closing Statement
 These Terms of Service are intended to create a safe, respectful, and creative environment for all users of Sol. By continuing to use Sol, you agree to abide by these terms and contribute positively to the community.
-If you have any questions, feedback, or concerns about these terms or the operation of Sol, please contact the **Luminova Team** via our [GitHub](https://github.com/solmaia).
+If you have any questions, feedback, or concerns about these terms or the operation of Sol, please contact the **Luminova Team** via our [GitHub](https://github.com/solavedev).
 
